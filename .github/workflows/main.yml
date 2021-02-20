@@ -2,7 +2,7 @@
 
 #Example name: Deploy HTML Files to AppService - COURSENAME
 
-name: AppServiceCMST385
+name: AppService-CMST385
 
 on:
 
